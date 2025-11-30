@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\arkanium-hash\target\debug\deps\blake3-643aa9e374e075a4.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\guts.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\platform.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_avx2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_avx512.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\portable.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_sse2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_sse41.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\io.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\join.rs
+
+C:\Users\HP\Desktop\arkanium-hash\target\debug\deps\libblake3-643aa9e374e075a4.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\guts.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\platform.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_avx2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_avx512.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\portable.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_sse2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_sse41.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\io.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\join.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\guts.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\platform.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_avx2.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_avx512.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\portable.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_sse2.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\ffi_sse41.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\io.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake3-1.5.1\src\join.rs:

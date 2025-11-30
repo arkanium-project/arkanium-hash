@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\arkanium-hash\target\debug\deps\half-ef99e88996e0e128.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\bfloat.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\bfloat\convert.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16\arch.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16\arch\x86.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\leading_zeros.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\slice.rs
+
+C:\Users\HP\Desktop\arkanium-hash\target\debug\deps\libhalf-ef99e88996e0e128.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\bfloat.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\bfloat\convert.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16\arch.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16\arch\x86.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\leading_zeros.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\slice.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\bfloat.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\bfloat\convert.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16\arch.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\binary16\arch\x86.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\leading_zeros.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-2.4.1\src\slice.rs:

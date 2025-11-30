@@ -1,6 +1,4 @@
 [submodule "external/BLAKE3"]
 	path = external/BLAKE3
 	url = https://github.com/BLAKE3-team/BLAKE3.git
-[submodule "C/blake3"]
-	path = C/blake3
-	url = https://github.com/BLAKE3-team/BLAKE3.git
+
